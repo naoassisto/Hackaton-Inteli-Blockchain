@@ -7,7 +7,7 @@
 Aplicação Node utilizando TruffleSuite. Contratos inteligentes desenvolvidos no Remix IDE e deployados na Mumbai Testnet.
 
 ## Instruções de como rodar o projeto
-10
+
 1 - Acesse a Remix IDE: vá para https://remix.ethereum.org.
 
 2 - Abra o arquivio Solidity: "Hackaton-Inteli-Blockchain/src/contracts/TokenContract.sol".
