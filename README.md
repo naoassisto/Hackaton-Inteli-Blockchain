@@ -2,6 +2,8 @@
 
 ## Integrantes - Gabriela Barretto, Luis Augusto Ferreira, Stefano Tinelli, João Pedro Alcaraz
 
+## Resumo do projeto
+Plataforma de trading, que visa incentivar a entrada de PMEs no mercado sustentável e descentralizado. Créditos de carbono transformados em tokens ERC-20 são negociados utilizando como moeda a stablecoin BTG Dol.
 
 ## Tecnologias utilizadas
 Aplicação Node utilizando TruffleSuite. Contratos inteligentes desenvolvidos no Remix IDE e deployados na Mumbai Testnet.
