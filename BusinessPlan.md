@@ -1,4 +1,4 @@
-# Plano de Negócios: Plataforma de Trading para PMEs com Foco em Green Assets Tokenizados - EcoTrading
+# Plano de Negócios: EcoTrading - Plataforma de Trading para PMEs com Foco em Green Assets Tokenizados
 
 ## Sumário Executivo
 
