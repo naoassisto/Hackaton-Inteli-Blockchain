@@ -1,8 +1,8 @@
-# Plano de Negócios: Plataforma de Trading para PMEs com Foco em Green Assets Tokenizados - GreenAssetTrade
+# Plano de Negócios: Plataforma de Trading para PMEs com Foco em Green Assets Tokenizados - EcoTrading
 
 ## Sumário Executivo
 
-A GreenAssetTrade é uma plataforma de trading inovadora que busca facilitar o acesso de pequenas e médias empresas (PMEs) a green assets tokenizados, promovendo investimentos sustentáveis e responsáveis. Os green assets serão tokenizados e negociados na plataforma utilizando o BTGdol, uma stablecoin lastreada em dólar. A visão da empresa é se tornar líder no mercado de trading de green assets tokenizados na América Latina.
+A EcoTrading é uma plataforma de trading inovadora que busca facilitar o acesso de pequenas e médias empresas (PMEs) a green assets tokenizados, promovendo investimentos sustentáveis e responsáveis. Os green assets serão tokenizados e negociados na plataforma utilizando o BTGdol, uma stablecoin lastreada em dólar. A visão da empresa é se tornar líder no mercado de trading de green assets tokenizados na América Latina.
 
 ## Descrição do Negócio
 
@@ -26,9 +26,9 @@ A GreenAssetTrade é uma plataforma de trading inovadora que busca facilitar o a
 
 ## Produtos e Serviços
 
-* Tokenização de green assets: A plataforma GreenAssetTrade permitirá a tokenização de uma variedade de green assets, tornando-os acessíveis a PMEs e outros investidores.
+* Tokenização de green assets: A plataforma EcoTrading permitirá a tokenização de uma variedade de green assets, tornando-os acessíveis a PMEs e outros investidores.
 * Plataforma de trading: Os usuários poderão negociar green assets tokenizados na plataforma utilizando o BTGdol, facilitando as transações e garantindo a estabilidade dos preços.
-* Serviços de custódia: A GreenAssetTrade oferecerá soluções de custódia seguras para os usuários armazenarem e gerenciarem seus tokens de green assets.
+* Serviços de custódia: A EcoTrading oferecerá soluções de custódia seguras para os usuários armazenarem e gerenciarem seus tokens de green assets.
 * Consultoria e suporte: A plataforma também fornecerá suporte e consultoria para PMEs e outros usuários interessados em investir em green assets.
 
 ## Plano de Operações
@@ -103,6 +103,10 @@ A GreenAssetTrade é uma plataforma de trading inovadora que busca facilitar o a
   * Controlar e otimizar custos operacionais
 
 * Anos 3
+  * Crescer o número de usuários em 40% ao ano
+  * Aumentar o volume de negociação em 50% ao ano
+  * Expandir geograficamente para 3 novos países na América Latina
+  * Diversificar a oferta de produtos, incluindo novos tipos de green assets
 
 ## Riscos e Mitigação
 
