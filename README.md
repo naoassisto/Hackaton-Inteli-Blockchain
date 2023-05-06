@@ -9,28 +9,15 @@ Aplicação Node utilizando TruffleSuite. Contratos inteligentes desenvolvidos n
 ## Instruções de como rodar o projeto
 10
 1 - Acesse a Remix IDE: vá para https://remix.ethereum.org.
-11
-​
-12
+
 2 - Abra o arquivio Solidity: "Hackaton-Inteli-Blockchain/src/contracts/TokenContract.sol".
-13
-​
-14
+
 3 - Selecione o compilador: vá para o painel "Solidity Compiler" (ícone de engrenagem no canto esquerdo) e selecione a versão do compilador 0.8.0. Clique em "Compile TokenContract.sol".
-15
-​
-16
+
 4 - Prepare-se para implantar: no painel "Deploy & Run Transactions" (ícone de plug no canto esquerdo), selecione o ambiente  "Inject Provider", dependendo das suas preferências e configurações).
-17
-​
-18
+
 5 - Implantar o contrato: no painel "Deploy & Run Transactions", insira o fornecimento inicial de tokens na caixa "InitialValue" ao lado do botão "Deploy".
-19
-​
-20
+
 6 - Interagir com o contrato: após a implantação bem-sucedida, o contrato será exibido no painel "Deployed Contracts" (na parte inferior do painel "Deploy & Run Transactions"). Agora você pode interagir com o contrato, chamando suas funções, como transfer, approve, balanceOf, etc.
-21
-​
-22
-​
+
 
