@@ -65,70 +65,44 @@ A GreenAssetTrade é uma plataforma de trading inovadora que busca facilitar o a
 
 | Descrição                                      | Valor (em USD) |
 |------------------------------------------------|---------------|
-| Desenvolvimento da plataforma                  | 100,000       |
-| Marketing e divulgação                         | 50,000        |
-| Contratação e treinamento de equipe            | 75,000        |
-| Custos administrativos e operacionais iniciais | 25,000        |
-| **Total**                                      | **250,000**   |
+| Desenvolvimento da plataforma                  | 150,000       |
+| Marketing e divulgação                         | 60,000        |
+| Contratação e treinamento de equipe            | 90,000        |
+| Custos administrativos e operacionais iniciais | 30,000        |
+| **Total**                                      | **330,000**   |
 
-### Projeções Financeiras (3 anos)
-
-| Ano | Receita (em USD) | Despesas Operacionais (em USD) | Lucro Líquido (em USD) |
-|-----|-----------------|--------------------------------|------------------------|
-| 1   | 200,000         | 150,000                        | 50,000                 |
-| 2   | 400,000         | 250,000                        | 150,000                |
-| 3   | 800,000         | 450,000                        | 350,000                |
-
-## Projeções Financeiras (1 e 5 anos)
+### Projeções Financeiras (1, 3 e 5 anos)
 
 | Ano | Receita (em USD) | Despesas Operacionais (em USD) | Lucro Líquido (em USD) |
 |-----|-----------------|--------------------------------|------------------------|
-| 1   | 200,000         | 150,000                        | 50,000                 |
-| 5   | 1,600,000       | 1,000,000                      | 600,000                |
+| 1   | 80,000          | 180,000                        | -100,000               |
+| 3   | 420,000         | 390,000                        | 30,000                 |
+| 5   | 1,100,000       | 750,000                        | 350,000                |
 
-### Indicadores Financeiros (Ano 1 e Ano 5)
+### Indicadores Financeiros (Ano 1, Ano 3 e Ano 5)
 
-| Indicador                    | Ano 1  | Ano 5  |
-|------------------------------|--------|--------|
-| Retorno sobre Investimento   | 20%    | 340%   |
-| Margem de Lucro Média        | 25%    | 37.5%  |
-| Ponto de Equilíbrio (Ano 1)  | 150,000| N/A    |
+| Indicador                    | Ano 1  | Ano 3  | Ano 5  |
+|------------------------------|--------|--------|--------|
+| Retorno sobre Investimento   | -30.3% | 9.1%   | 106.1% |
+| Margem de Lucro Média        | -125%  | 7.1%   | 31.8%  |
+| Ponto de Equilíbrio (Ano 3)  | N/A    | 390,000| N/A    |
 
-### Estratégia de Crescimento e Expansão (1 e 5 anos)
-
-* Ano 1:
-  * Crescer o número de usuários em 50% ao ano
-  * Aumentar o volume de negociação em 75% ao ano
-  * Estabelecer parcerias com emissores de green assets e instituições financeiras
-
-* Ano 5:
-  * Expandir geograficamente para 5 novos países na América Latina
-  * Diversificar a oferta de produtos, incluindo novos tipos de green assets
-  * Estabelecer parcerias com organizações internacionais e governamentais para promover a adoção de green assets tokenizados
-
-
-### Indicadores Financeiros
-
-| Indicador                    | Valor    |
-|------------------------------|----------|
-| Retorno sobre Investimento   | 225%     |
-| Margem de Lucro Média        | 37.5%    |
-| Ponto de Equilíbrio (Ano 1)  | 150,000  |
-
-### Proposta de Financiamento
+### Investimentos e Financiamento
 
 | Fonte de Financiamento | Valor (em USD) | Termos e Condições                                              |
 |------------------------|---------------|------------------------------------------------------------------|
-| Investidores Anjo      | 100,000       | 20% de participação na empresa                                  |
-| Venture Capital        | 100,000       | 20% de participação na empresa e assento no conselho            |
-| Crowdfunding           | 50,000        | Tokens de green assets como recompensa aos apoiadores           |
+| Investidores Anjo      | 165,000       | 25% de participação na empresa                                  |
+| Venture Capital        | 165,000       | 25% de participação na empresa e assento no conselho            |
 
-### Estratégia de Crescimento e Expansão
+### Estratégia de Crescimento e Expansão (1 a 5 anos)
 
-* Crescer o número de usuários em 50% ao ano
-* Aumentar o volume de negociação em 75% ao ano
-* Expandir geograficamente para 3 novos países na América Latina até o final do ano 3
+* Anos 1-2:
+  * Focar no desenvolvimento e aprimoramento da plataforma
+  * Estabelecer parcerias com emissores de green assets e instituições financeiras
+  * Implementar campanhas de marketing para atrair usuários iniciais
+  * Controlar e otimizar custos operacionais
 
+* Anos 3
 
 ## Riscos e Mitigação
 
