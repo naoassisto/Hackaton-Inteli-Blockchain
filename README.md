@@ -1,6 +1,6 @@
 # Hackaton-Inteli-Blockchain
 
-## Integrantes - Gabriela Barretto, Luis Augusto Ferreira, Stefano Tinelli, João Pedro Alcaraz
+## Integrantes - Gabriela Barretto, Luiz Augusto Ferreira, Stefano Tinelli, João Pedro Alcaraz
 
 ## Resumo do projeto
 Plataforma de trading, que visa incentivar a entrada de PMEs no mercado sustentável e descentralizado. Créditos de carbono transformados em tokens ERC-20 são negociados utilizando como moeda a stablecoin BTG Dol.
