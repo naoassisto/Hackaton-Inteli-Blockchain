@@ -5,6 +5,8 @@
 ## Resumo do projeto
 Plataforma de trading, que visa incentivar a entrada de PMEs no mercado sustentável e descentralizado. Créditos de carbono transformados em tokens ERC-20 são negociados utilizando como moeda a stablecoin BTG Dol.
 
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/99211976/236678183-f078177a-f941-46e9-af9f-677ae9a62b0d.png">
+
 ## Tecnologias utilizadas
 Aplicação Node utilizando TruffleSuite. Contratos inteligentes desenvolvidos no Remix IDE e deployados na Mumbai Testnet.
 
@@ -21,5 +23,6 @@ Aplicação Node utilizando TruffleSuite. Contratos inteligentes desenvolvidos n
 5 - Implantar o contrato: no painel "Deploy & Run Transactions", insira o fornecimento inicial de tokens na caixa "InitialValue" ao lado do botão "Deploy".
 
 6 - Interagir com o contrato: após a implantação bem-sucedida, o contrato será exibido no painel "Deployed Contracts" (na parte inferior do painel "Deploy & Run Transactions"). Agora você pode interagir com o contrato, chamando suas funções, como transfer, approve, balanceOf, etc.
+
 
 
